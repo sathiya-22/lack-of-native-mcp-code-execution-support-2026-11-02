@@ -1,0 +1,11 @@
+{
+  "tool_calls": [
+    {
+      "tool_name": "search_internet",
+      "args": {
+        "query": "current stock market trends"
+      }
+    }
+  ],
+  "thought": "The user asked for stock market trends, so I need to use the search_internet tool to find the latest information."
+}
